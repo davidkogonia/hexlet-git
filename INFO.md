@@ -1,1 +1,2 @@
 git funny
+new line
